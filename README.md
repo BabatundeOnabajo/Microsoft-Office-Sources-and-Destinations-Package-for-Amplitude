@@ -9,6 +9,8 @@ In order to use this repository, you will need the following:
 * An account with Amplitude
 
 ### Mac
+* Internet access
+* An account with Amplitude
 
 # Instructions
 In order to use this repository, it is advisable to follow the instructions below:
