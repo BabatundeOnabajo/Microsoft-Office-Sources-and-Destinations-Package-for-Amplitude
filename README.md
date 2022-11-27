@@ -6,7 +6,7 @@ Up until the point of creating this repository, Amplitude - the digital analytic
 # Requirements
 
 # Technology
-Broadly speaking, there are two ways to create a Microsoft Office add-in: in **node.js** or in **Visual Studio**. Microsoft recommends building add-ins in node.js as opposed to Visual Studio, however, because the node.js environment is updated more frequently than that in Visual Studio. 
+Broadly speaking, there are two ways to create a Microsoft Office add-in: in **node.js** or in **Visual Studio**. Microsoft recommends building add-ins in node.js as opposed to Visual Studio, however, because the node.js environment is updated more frequently than that in Visual Studio. Furthermore, using Visual Studio restricts you to developing on Windows machines. And perhaps finally, using Visual Studio requires you to write the server-end language in **ASP.NET**. For all of these reasons, and more, it was determined it was best to build this repository using node.js.  
 
 # Potential Applications
 
