@@ -11,3 +11,4 @@ This is an add-in for Amplitude that helps integrate the Amplitude SDK within a 
 Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
+The code provided in this repository is not necessarily reflective of the views of any past, present or future employer of Babatunde Onabajo. This repository is not officially associated with Microsoft Corporation and/or Amplitude Inc.. Microsoft Office and Amplitude are intellectual property of their respective rights holders. 
