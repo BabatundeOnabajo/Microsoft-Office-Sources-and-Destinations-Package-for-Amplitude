@@ -16,7 +16,9 @@ In order to use this repository, you will need the following:
 In order to use this repository, it is advisable to follow the instructions below:
 
 ### Amplitude
-You will need an Amplitude account in 
+You will need an Amplitude account. To get started, be sure to visit here.
+
+
 
 
 
