@@ -7,10 +7,12 @@ In order to use this repository, you will need the following:
 ### Windows
 * Internet access
 * An account with Amplitude
+* Microsoft Office installed (Version 2016 or later)
 
 ### Mac
 * Internet access
 * An account with Amplitude
+* Microsoft Office installed 
 
 # Instructions
 In order to use this repository, it is advisable to follow the instructions below:
