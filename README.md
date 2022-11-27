@@ -1,5 +1,5 @@
 # Microsoft-Office-Destinations-for-Amplitude
-Up until the point of creating this code, Amplitude - the digital analytics company headquarted in the United States and founded in 2014 - offered a wide range of sources and destinations ranging from Amazon Web Services (AWS) through to Shopify. However, there was no clear or apparent source/destination for Microsoft Office.  
+Up until the point of creating this repository, Amplitude - the digital analytics company headquarted in the United States and founded in 2014 - offered a wide range of sources and destinations ranging from Amazon Web Services (AWS) through to Shopify. However, there was no clear or apparent source/destination for Microsoft Office.  
 
 # Instructions
 
