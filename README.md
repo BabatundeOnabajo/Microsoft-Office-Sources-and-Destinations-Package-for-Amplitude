@@ -1,9 +1,11 @@
 # Microsoft-Office-Destinations-for-Amplitude
-This is an add-in for Amplitude that helps integrate the Amplitude SDK within a wide range of Microsoft Office Products, including Word, PowerPoint, among others. 
+Up until the point of creating this code, Amplitude - the digital analytics company headquarted in the United States and founded in 2014 - offered a wide range of sources and destinations ranging from Amazon Web Services through to Shopify. 
 
 # Instructions
 
 # Requirements
+
+# Technology
 
 # Potential Applications
 
